@@ -1,0 +1,3 @@
+LOG_DIR="/backups/logs"
+BACKUP_DIR="/backups"
+SOURCE_DIR="/app"
